@@ -1,6 +1,6 @@
 #Gestao do tempo 
 
-teoria-reflexivel-sobre-versionamento-com-git-e-github
+atividade do Alan
 
 fontes : facabook e google
 
