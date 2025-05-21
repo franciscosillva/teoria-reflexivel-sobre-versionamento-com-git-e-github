@@ -1,8 +1,8 @@
-#Gestao do tempo 
+#### Gestao do tempo 
 
-atividade do Alan
+ atividade do Alan
 
-fontes : facabook e google
+fontes : facebook e google
 
 Atividade 1: Desvendando a História dos Projetos - A Lógica do Git
 
